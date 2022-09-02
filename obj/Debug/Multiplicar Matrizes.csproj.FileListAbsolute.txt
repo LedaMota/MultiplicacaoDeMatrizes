@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Multiplicar Matrizes\obj\Debug\Multiplicar Matrizes.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Multiplicar Matrizes\obj\Debug\Multiplicar Matrizes.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Multiplicar Matrizes\bin\Debug\Multiplicar Matrizes.exe.config
+C:\WorkspaceLediane\Multiplicar Matrizes\bin\Debug\Multiplicar Matrizes.exe
+C:\WorkspaceLediane\Multiplicar Matrizes\bin\Debug\Multiplicar Matrizes.pdb
+C:\WorkspaceLediane\Multiplicar Matrizes\obj\Debug\Multiplicar Matrizes.exe
+C:\WorkspaceLediane\Multiplicar Matrizes\obj\Debug\Multiplicar Matrizes.pdb
